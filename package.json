@@ -19,7 +19,7 @@
   "homepage": "https://github.com/SumunComunicacionGlobal/smn_hybrid#readme",
   "devDependencies": {
     "@wordpress/scripts": "^31.1.0",
-    "@wordpress/stylelint-config": "^23.1.0",
+    "@wordpress/stylelint-config": "^23.29.0",
     "dir-archiver": "^2.1.0",
     "sass": "^1.97.1",
     "stylelint": "^16.9.0",
